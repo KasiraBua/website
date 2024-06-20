@@ -5,7 +5,7 @@ permalink: /info/
 ---
 
 # Vragen & Reserveren
-Graag een berichtje sturen via 0615416446 💬 WhatsApp, of een email sturen naar [info@kasira.nl](mailto:info@kasira.nl). Het kan zijn dat ik telefonisch niet bereikbaar ben, omdat ik bezig ben met een behandeling.
+Graag een berichtje sturen via 💬 [WhatsApp](https://api.whatsapp.com/send?phone=%2B31615416446), of een email sturen naar [info@kasira.nl](mailto:info@kasira.nl). Het kan zijn dat ik telefonisch niet bereikbaar ben, omdat ik bezig ben met een behandeling.
 
 # Openingstijden
 
