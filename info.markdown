@@ -3,8 +3,9 @@ layout: page
 title: Info
 permalink: /info/
 ---
+![image](../assets/Red lotus banner.jpg){: style="float: right; width: 100%; margin-left: 2%; margin-bottom: 4%"}
 
-# Vragen & Reserveren
+# Vragen & reserveren
 Graag een berichtje sturen via 💬 [WhatsApp](https://api.whatsapp.com/send?phone=%2B31615416446), of een email sturen naar [info@kasira.nl](mailto:info@kasira.nl). Het kan zijn dat ik telefonisch niet bereikbaar ben, omdat ik bezig ben met een behandeling.
 
 # Openingstijden
@@ -16,10 +17,10 @@ Graag een berichtje sturen via 💬 [WhatsApp](https://api.whatsapp.com/send?pho
 | Woensdag  | 10:00 - 20:00   |
 | Donderdag | 10:00 - 20:00   |
 | Vrijdag   | 10:00 - 20:00   |
-| Zaterdag  | Gesloten        |
+| Zaterdag  | 10:00 - 17:00   |
 | Zondag    | Gesloten        |
 
-# Address
+# Adres
 Hambakenwetering 18, 5231 DC, 's-Hertogenbosch
 
 # Maps
