@@ -25,3 +25,5 @@ Lipton groene thee
 Frisdrank  
 Koekje  
 Chocolade  
+
+<div class="salonized-booking" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>

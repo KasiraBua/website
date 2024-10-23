@@ -52,7 +52,7 @@ Ervaar deze behandeling en boek nu!
 
 # Hoofd-, nek-, en schoudermassage
  
-![image](../assets/Hoofd nek 2.jfif){: style="float: right; width: 25%; margin-left: 2%; margin-bottom: 0%"} Ontspan met mijn Thaise hoofd-, nek-, en schoudermassage. Deze massage combineert drukpunttherapie met traditionele Thaise technieken om spanning te verlichten, de bloedcirculatie te verbeteren en je spieren diep te ontspannen. 
+![image](../assets/Hoofd nek 2.jfif){: style="float: right; width: 25%; margin-left: 2%; margin-bottom: 0%"} Ontspan met onze Thaise hoofd-, nek-, en schoudermassage. Deze massage combineert drukpunttherapie met traditionele Thaise technieken om spanning te verlichten, de bloedcirculatie te verbeteren en je spieren diep te ontspannen. 
 Ideaal voor een welverdiende pauze.
 
 De hoofd-, nek-, en schoudermassage is geheel gericht op herstel, doorbloeding en losmaken van deze spiergroepen.
@@ -86,7 +86,49 @@ Overtuig jezelf en boek deze behandeling!
 Gun jezelf een moment van ontspanning en verwennerij tijdens je zwangerschap met een professionele zwangerschapsmassage. Speciaal voor zwangere vrouwen worden technieken gebruikt die de bloedsomloop stimuleren, de spieren ontspannen en je mentale welzijn bevorderen. Je zult merken dat je je na de massage fitter en energieker voelt.
 
 In een serene omgeving geniet je van een behandeling die volledig is afgestemd op jouw behoeften. Met zachte, vloeiende bewegingen wordt je lichaam gemasseerd, waardoor je stress vermindert en een diepe ontspanning ervaart.
-
+Let op! In verband met je gezondheid geven wij geen zwangerschapsmassage meer als je langer dan 6,5 maand zwanger bent.
  
 
 Boek nu jouw zwangerschapsmassage en ervaar het zelf!
+
+---
+
+
+# Anti-migraine massage
+ 
+![image](../assets/Anti migraine.PNG){: style="float: left; width: 32%; margin-top: 1%; margin-right: 7%; margin-bottom: 5%"}
+
+
+Lijd je regelmatig aan migraine of aanhoudende hoofdpijn? 
+
+Ontdek de verlichting die een anti-migraine massage kan bieden. 
+Deze unieke behandeling combineert traditionele massagetechnieken 
+met specifieke drukpuntmassage, gericht op het verminderen van spanning 
+in de spieren van het hoofd, de nek en de schouders. Wetenschappelijk onderzoek 
+heeft aangetoond dat massage een effectieve manier kan zijn om de frequentie 
+en intensiteit van migraine-aanvallen te verminderen. 
+
+
+
+Ervaar het zelf en boek nu!
+
+---
+
+
+# Vierhanden massage
+ 
+![image](../assets/4 hands 3.JPG){: style="float: right; width: 25%; margin-left: 2%; margin-bottom: 0%"} Trakteer jezelf op een ultieme wellness-ervaring met onze exclusieve Vierhanden massage. 
+In een serene ambiance, omhuld door rustgevende muziek, worden je lichaam en geest volledig verzorgd. De gesynchroniseerde bewegingen van onze ervaren masseuses creëren een betoverende sensatie die moeilijk te beschrijven is.
+ De vloeiende, moeiteloze overgangen van vier handen over je lichaam zijn bijna hypnotisch. Laat je meedrijven op een wolk van gelukzaligheid en stap de wereld weer binnen als een herboren mens.
+
+
+
+
+Verwen jezelf en boek nu!
+
+
+
+--- 
+
+
+<div class="salonized-booking" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>

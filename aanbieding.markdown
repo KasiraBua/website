@@ -11,6 +11,6 @@ Op zoek naar het perfecte cadeau?
 
 Zoek niet verder! Geef een cadeaubon en laat je dierbaren zelf kiezen uit een wereld van mogelijkheden.
 
-Of het nu gaat om een verjaardag, jubileum, of gewoon om te laten zien dat je om ze geeft; mijn cadeaubonnen zijn de ideale keuze.
+Of het nu gaat om een verjaardag, jubileum, of gewoon om te laten zien dat je om ze geeft; onze cadeaubonnen zijn de ideale keuze.
 
 Laat de ontvanger zijn wensen vervullen met een cadeaubon van Kasira Massagetherapie.
