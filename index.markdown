@@ -14,7 +14,7 @@ Welkom!
 
  
 
-Wat leuk dat je op mijn website komt kijken. Mijn naam is Kasira en ik ben van oorsprong Thaise en woon al geruime tijd in Nederland. Ik heb verschillende opleidingen gevolgd bij the Union of Thai Traditional Medicine Society, zodat ik gediplomeerd mijn vak kan uitoefenen.
+Wat leuk dat je op onze website komt kijken. Mijn naam is Kasira en eigenaar van Kasira Massagetherapie. Ik ben van oorsprong Thaise en woon al geruime tijd in Nederland. Ik heb verschillende opleidingen gevolgd bij the Union of Thai Traditional Medicine Society, zodat ik gediplomeerd mijn vak kan uitoefenen.
 
  
 
@@ -23,11 +23,11 @@ Nadat ik bij verschillende salons werkzaam ben geweest heb ik in 2022 mijn eigen
 
   
 ![image](../assets/Ruimte 2.jfif){: style="float: right; width: 30%; margin-left: 2%"}
-Wees welkom in mijn sfeervol ingerichte ruime salon voorzien van airconditioning en luchtbehandeling. Hygiëne staat bij mij hoog aangeschreven, ruimtes worden daarom dagelijks schoongemaakt en na elke behandeling worden schone handdoeken en tafeldoeken gebruikt. Ook is er gelegenheid tot douchen.
+Wees welkom in onze sfeervol ingerichte ruime salon voorzien van airconditioning en luchtbehandeling. Hygiëne staat bij ons hoog aangeschreven, ruimtes worden daarom dagelijks schoongemaakt en na elke behandeling worden schone handdoeken en tafeldoeken gebruikt. Ook is er gelegenheid tot douchen.
 
 Na de behandeling kun je nagenieten onder het genot van een drank naar keuze.
 
-Parkeren is geen probleem, ik heb gratis ruime parkeergelegenheid direct naast het pand. 
+Parkeren is geen probleem, wij hebben gratis ruime parkeergelegenheid direct naast het pand. 
 
  
 
@@ -36,4 +36,6 @@ Tot ziens bij Kasira Massagetherapie!
  
  
 
-Ik bied geen erotische massages aan. Ook blijft de onderbroek aan tijdens de behandeling. Ik ga er vanuit dat je hiervoor respect hebt.
+Wij bieden geen erotische massages aan. Wij gaan er vanuit dat je hiervoor respect hebt en hier niet naar vraagt.
+
+<div class="salonized-booking" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>
