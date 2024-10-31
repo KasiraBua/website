@@ -96,7 +96,7 @@ Boek nu jouw zwangerschapsmassage en ervaar het zelf!
 
 # Anti-migraine massage
  
-![image](../assets/Anti migraine.PNG){: style="float: left; width: 32%; margin-top: 1%; margin-right: 7%; margin-bottom: 5%"}
+![image](../assets/Anti migraine.png){: style="float: left; width: 32%; margin-top: 1%; margin-right: 7%; margin-bottom: 5%"}
 
 
 Lijd je regelmatig aan migraine of aanhoudende hoofdpijn? 
@@ -117,7 +117,7 @@ Ervaar het zelf en boek nu!
 
 # Vierhanden massage
  
-![image](../assets/4 hands 3.JPG){: style="float: right; width: 25%; margin-left: 2%; margin-bottom: 0%"} Trakteer jezelf op een ultieme wellness-ervaring met onze exclusieve Vierhanden massage. 
+![image](../assets/4 hands 3.jpg){: style="float: right; width: 25%; margin-left: 2%; margin-bottom: 0%"} Trakteer jezelf op een ultieme wellness-ervaring met onze exclusieve Vierhanden massage. 
 In een serene ambiance, omhuld door rustgevende muziek, worden je lichaam en geest volledig verzorgd. De gesynchroniseerde bewegingen van onze ervaren masseuses creëren een betoverende sensatie die moeilijk te beschrijven is.
  De vloeiende, moeiteloze overgangen van vier handen over je lichaam zijn bijna hypnotisch. Laat je meedrijven op een wolk van gelukzaligheid en stap de wereld weer binnen als een herboren mens.
 
