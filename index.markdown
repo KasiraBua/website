@@ -22,7 +22,7 @@ Nadat ik bij verschillende salons werkzaam ben geweest heb ik in 2022 mijn eigen
 
 
   
-![image](../assets/Ruimte 2.jfif){: style="float: right; width: 30%; margin-left: 2%"}
+![image](../assets/ruimte_3.jpg){: style="float: right; width: 45%; margin-left: 2%"}
 Wees welkom in onze sfeervol ingerichte ruime salon voorzien van airconditioning en luchtbehandeling. Hygiëne staat bij ons hoog aangeschreven, ruimtes worden daarom dagelijks schoongemaakt en na elke behandeling worden schone handdoeken en tafeldoeken gebruikt. Ook is er gelegenheid tot douchen.
 
 Na de behandeling kun je nagenieten onder het genot van een drank naar keuze.
