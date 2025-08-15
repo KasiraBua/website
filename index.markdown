@@ -5,20 +5,37 @@
 layout: home
 ---
 
-![image](assets/profiel.jpg){: style="float: left; width: 30%; border-radius: 50%; margin-right: 2%; margin-bottom: 2%"} Wat leuk dat je op mijn website komt kijken. Mijn naam is Kasira en ik ben van oorsprong Thaise. Ondertussen woon ik sinds 2017 in Nederland en ben masseuse van beroep.
+![image](../assets/banner.jpg){: style="float: right; width: 100%; margin-left: 2%; margin-bottom: 4%"}
+---
+
+![image](assets/kasira.jfif){: style="float: left; width: 30%; border-radius: 100%; margin-right: 2%; margin-bottom: 2%"}
+
+Welkom!
+
+ 
+
+Wat leuk dat je op onze website komt kijken. Mijn naam is Kasira en eigenaar van Kasira Massagetherapie. Ik ben van oorsprong Thaise en woon al geruime tijd in Nederland. Ik heb verschillende opleidingen gevolgd bij the Union of Thai Traditional Medicine Society, zodat ik gediplomeerd mijn vak kan uitoefenen.
+
+ 
+
+Nadat ik bij verschillende salons werkzaam ben geweest heb ik in 2022 mijn eigen massagesalon in Den Bosch geopend : Kasira Massagetherapie.
 
 
-Ik heb veel ervaring opgedaan in verschillende massagesalons in en rond Den Bosch.
+  
+![image](../assets/room.jpg){: style="float: right; width: 45%; margin-left: 2%"}
+Wees welkom in onze sfeervol ingerichte ruime salon voorzien van airconditioning en luchtbehandeling. Hygiëne staat bij ons hoog aangeschreven, ruimtes worden daarom dagelijks schoongemaakt en na elke behandeling worden schone handdoeken en tafeldoeken gebruikt. Ook is er gelegenheid tot douchen.
 
-| Periode         | Plaats                               |
-|-----------------|--------------------------------------|
-| 2017 - 2019     | Rak Thai massage in Den Bosch        |
-| 2019 - 2020     | Suspa thai massage in Den Bosch      |
-| 2020 - 2021     | Munpune Thaise massage in Gameren    |
-                                        
+Na de behandeling kun je nagenieten onder het genot van een drank naar keuze.
 
-Vanaf begin 2022 heb ik mijn eigen massagesalon geopend in Den Bosch: Kasira Massagetherapie. Bekijk de verschillende [behandelingen](/behandelingen) voor mijn specialiteiten.
+Parkeren is geen probleem, wij hebben gratis ruime parkeergelegenheid direct naast het pand. 
 
-Wilt u een afspraak maken voor een massage of heeft u een vraag? Neem dan gerust [contact](/info) op. 
+ 
 
-Tot ziens bij Kasira Massagetherapie!
+Tot ziens bij Kasira Massagetherapie!  
+
+ 
+ 
+
+Wij bieden geen erotische massages aan. Wij gaan er vanuit dat je hiervoor respect hebt en hier niet naar vraagt.
+
+<div class="salonized-booking" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>
