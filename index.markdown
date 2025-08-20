@@ -31,11 +31,21 @@ Parkeren is geen probleem, wij hebben gratis ruime parkeergelegenheid direct naa
 
  
 
-Tot ziens bij Kasira Massagetherapie!  
-
- 
- 
+Tot ziens bij Kasira Massagetherapie!
 
 Wij bieden geen erotische massages aan. Wij gaan er vanuit dat je hiervoor respect hebt en hier niet naar vraagt.
+
+---
+
+
+# Laatste nieuws
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v23.0"></script>
+
+<div style="display: flex; justify-content: center;">
+
+<div class="fb-page" data-href="https://www.facebook.com/Kasira-Massagetherapie-100085594200024/" data-tabs="timeline" data-width="500" data-height="1000" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Kasira-Massagetherapie-100085594200024/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Kasira-Massagetherapie-100085594200024/">Kasira Massagetherapie</a></blockquote></div>
+
+</div>
 
 <div class="salonized-booking" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>
