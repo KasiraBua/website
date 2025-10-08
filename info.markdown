@@ -21,6 +21,8 @@ Je kan ook een berichtje sturen of bellen via 💬 [WhatsApp](https://api.whatsa
 | Zaterdag  | 10:00 - 17:00   |
 | Zondag    | Gesloten        |
 
+<iframe src="https://massage-massagetherapie.salonized.com/#business_hours?layout=embed" style="width: 100%; max-width: 800px; height: 1200px; border: none;"></iframe>
+
 # Adres
 Hambakenwetering 18, 5231 DC, 's-Hertogenbosch
 
