@@ -14,3 +14,5 @@ Zoek niet verder! Geef een cadeaubon en laat je dierbaren zelf kiezen uit een we
 Of het nu gaat om een verjaardag, jubileum, of gewoon om te laten zien dat je om ze geeft; onze cadeaubonnen zijn de ideale keuze.
 
 Laat de ontvanger zijn wensen vervullen met een cadeaubon van Kasira Massagetherapie.
+
+<div class="salonized-voucher" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>
