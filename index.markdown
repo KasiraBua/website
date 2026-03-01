@@ -18,14 +18,14 @@ Wat leuk dat je op onze website komt kijken. Mijn naam is Kasira en eigenaar van
 
  
 
-Nadat ik bij verschillende salons werkzaam ben geweest heb ik in 2022 mijn eigen massagesalon in Den Bosch geopend : Kasira Massagetherapie.
+Nadat ik bij verschillende salons werkzaam ben geweest heb ik in 2022 mijn eigen massagesalon in 's-Hertogenbosch geopend: Kasira Massagetherapie. En sinds 2026 heb ik een tweede locatie in Vlijmen.
 
 
   
 ![image](../assets/room.jpg){: style="float: right; width: 45%; margin-left: 2%"}
 Wees welkom in onze sfeervol ingerichte ruime salon voorzien van airconditioning en luchtbehandeling. Hygiëne staat bij ons hoog aangeschreven, ruimtes worden daarom dagelijks schoongemaakt en na elke behandeling worden schone handdoeken en tafeldoeken gebruikt. Ook is er gelegenheid tot douchen.
 
-Na de behandeling kun je nagenieten onder het genot van een drank naar keuze.
+Na de behandeling kun je nagenieten onder het genot van een drankje naar keuze.
 
 Parkeren is geen probleem, wij hebben gratis ruime parkeergelegenheid direct naast het pand. 
 

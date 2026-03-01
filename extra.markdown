@@ -9,21 +9,19 @@ permalink: /extra/
 
 ![image](../assets/tea.jpg){: style="float: right; width: 50%; margin-left: 2%; margin-bottom: `2%"}
 
-Gratis na de behandeling:
+Gratis na de behandeling, heeft u de keuze uit:
  
-Water met verse limoen en munt  
-Mineraalwater (flesje)  
-Verse koffie  
-Verse limoenthee  
-Verse muntthee  
-Verse gemberthee  
+Water met verse limoen en munt 
+Mineraalwater (flesje)
+Koffie
+Verse Gemberthee
+Verse Limoenthee 
+Verse Muntthee
+Verse Oolong thee
 
-Diverse soorten thee waaronder:  
-Oolong thee  
-Lipton groene thee  
-
-Frisdrank  
-Koekje  
-Chocolade  
+Lipton groene thee 
+Frisdrank 
+Koekje 
+Chocolade 
 
 <div class="salonized-booking" data-company="yuxfdDQNtyh2fTTnntue1pWB" data-color="#fc1d33" data-language="nl" data-position="right" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script>
