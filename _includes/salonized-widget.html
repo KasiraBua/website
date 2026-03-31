@@ -1,0 +1,25 @@
+<div id="location-selector-container" style="position: fixed; bottom: 20px; left: 20px; z-index: 9999;">
+  <select id="location-selector" style="padding: 12px; border-radius: 8px; border: 2px solid #ddd; background: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <option value="vlijmen">📍 Vlijmen</option>
+    <option value="s-hertogenbosch">📍 's-Hertogenbosch</option>
+  </select>
+</div>
+
+<div id="salonized-container" class="salonized-booking" data-language="nl" data-position="right" data-outline="shadow"></div>
+
+<script src="{{ '/assets/js/booking-system.js' | relative_url }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    window.initBookingSystem({
+      locations: {
+        'vlijmen': 'CPj6L2C62C9gFQSzb49s1kD6',
+        's-hertogenbosch': 'yuxfdDQNtyh2fTTnntue1pWB'
+      },
+      colors: {
+        'vlijmen': '#039dfc',
+        's-hertogenbosch': '#fc1d33'
+      },
+      defaultLoc: 'vlijmen'
+    });
+  });
+</script>
