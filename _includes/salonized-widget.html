@@ -1,0 +1,63 @@
+<div id="booking-card" style="
+  position: fixed; 
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+  background: #ffffff; 
+  border-radius: 12px; 
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12); 
+  border: 1px solid #e1e1e1;
+  padding: 12px;
+  width: 190px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+">
+
+  <div style="font-family: sans-serif; font-size: 11px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; width: 100%;">
+    Afspraak plannen
+  </div>
+
+  <select id="location-selector" style="
+    height: 45px;
+    box-sizing: border-box;
+    padding: 0 10px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 55px;
+    outline: none;">
+    <option value="">-- Kies locatie --</option>
+    <option value="vlijmen">📍 Vlijmen</option>
+    <option value="s-hertogenbosch">📍 's-Hertogenbosch</option>
+  </select>
+
+  <div id="salonized-container" 
+       class="salonized-booking" 
+       data-language="nl" 
+       data-position="right" 
+       data-outline="none"> </div>
+</div>
+
+<script src="{{ '/assets/js/booking-system.js' | relative_url }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    window.initBookingSystem({
+      locations: {
+        'vlijmen': 'CPj6L2C62C9gFQSzb49s1kD6',
+        's-hertogenbosch': 'yuxfdDQNtyh2fTTnntue1pWB'
+      },
+      colors: {
+        'vlijmen': '#039dfc',
+        's-hertogenbosch': '#fc1d33'
+      },
+      defaultLoc: 's-hertogenbosch'
+    });
+  });
+</script>
