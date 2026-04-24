@@ -6,7 +6,7 @@ permalink: /info/
 ![image](../assets/banner.jpg){: style="float: right; width: 100%; margin-left: 2%; margin-bottom: 4%"}
 
 # Vragen & reserveren
-Rechtsonder de pagina vindt je de knop om een online boeking te maken. Kies de behandeling en een tijdstip, eenvoudiger kan haast niet.
+Rechtsonder de pagina vindt je de knop om een online boeking te maken. Kies eerst de locatie, en click daarna op 'Maak afspraak'. Daarna kiest u de behandeling en een tijdstip, eenvoudiger kan haast niet.
 Je kan ook een berichtje sturen of bellen via 💬 [WhatsApp](https://api.whatsapp.com/send?phone=%2B31615416446), of een email sturen naar [info@kasira.nl](mailto:info@kasira.nl). Het kan zijn dat wij telefonisch niet bereikbaar zijn, omdat wij bezig zijn met een behandeling.
 
 # Openingstijden 's-Hertogenbosch
